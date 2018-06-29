@@ -1,0 +1,78 @@
+CUSTOMER
+Customer details like name,mobile number and address stored in the system. To find the particular customer details search using customer name.
+While making sales invoice select customer by their Name/ Phone Number.Assign Different Price List to different customer.
+
+SUPPLIER
+Supplier details like name,mobile number and address stored in the system. To find the particular supplier details search using supplier name.
+Make payments to your supplier through Supplier Payment form. This helps you to pick up all due and pending payments.
+
+PRODUCT
+There are two options used to find the product details. One is search by barcode another one is search by product name.
+
+PURCHASE
+In purchasing process to select the product details by using search barcode or product name.
+Fast inward entry, 
+GST calculation,
+ Automatic selling price update 
+goods inward,
+ verfiy &stock update, 
+ 
+
+SALES
+Choose customer base point occure on their sale amount. The sale details printed by thermal printer.
+
+PURCHASE RETURN
+Select the supplier name and select the product name and return the product. Product is return and the amount will be credit into shop.
+
+
+SALES RETURN
+Select the customer name and product name and return the sale. Product is return and the amount will be credit into customer.
+
+
+PAYMENT
+
+Payments can be received from customers while making credit sale.To find the particular payment details by using customer or supplier name.
+
+RECEIPT
+Receipt can be given to customers while making credit sale.Receive cash against pending invoices. 
+
+Stock Management
+Taking stock of the goods and keep tracking  is essential for every business whether it is a garment business or a restaurant or a grocery store one.
+
+REPORT
+
+ GST Payable,GST receivable  based report will be taken. you can take reports date,week,month and year wise of
+ customers, suppliers, sales, purchases and many more…
+
+
+
+
+Features:
+
+Easy to get the product detail based on barcode scanner or search and get the product name.
+
+Easy to get the customer points based on their sales information.
+
+Easy to get the day by day sales report.
+
+The customer details and product details is very secured.
+
+Easy to search, filter, sort list the sales, purchase, sales return and purchase return report based on day, month ,year and name wise or bill number.
+
+Reduce the record maintenance.
+
+Computerized and customized bill will be provided for customer sale.
+
+Easy to get the product availability.
+
+Managing the stock availability on system based.
+
+Billing
+Detailed Stock Management
+Tax Management / GST
+Manufacturing/BOM
+Barcode Scanning
+Customized Reports 
+
+
+
